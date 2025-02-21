@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello I'm Yadnyesh
 👨‍💻 Self-taught full-stack developer specializing in Python, JavaScript, React, Node.js, PHP, and SQL. I build custom web apps, interactive UI components, and JavaScript projects that make coding more accessible.<br><br>📚 Founder of FoolishDeveloper.com & CodeWithCurious.com – platforms where I share coding tutorials, project-based learning, and CS resources.<br><br>🎯 Currently building Codeleap.io – a coding education platform for developers.<br><br>📢 I share coding insights with 300K+ followers on Instagram @curious_.programmer<br><br>💡 Working on DSA notes, JavaScript utilities, CSS animations, open-source projects, and more!<br>
 
 
